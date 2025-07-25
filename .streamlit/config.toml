@@ -1,16 +1,21 @@
 [theme]
-# Primary accent color for interactive elements.
+# Primary accent color for interactive elements
 primaryColor = "#74BEE0"
 
-# Background color for the main content area.
-backgroundColor = "#0B0B0C"
+# Background color for the main content area
+backgroundColor = "#0B0C0F"  # Un negro ligeramente más claro
 
-# Background color used for the sidebar and most interactive widgets.
-secondaryBackgroundColor = "37207D"
+# Background color used for the sidebar and most interactive widgets
+secondaryBackgroundColor = "#37207D"
 
-# Color used for almost all text.
-textColor = "#FFF"
+# Background color for DataFrames and tables
+tertiaryBackgroundColor = "#1E1E1E"  # Nuevo: fondo más claro para tablas
 
-# Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
-# Default: "sans serif"
+# Color used for almost all text
+textColor = "#FFFFFF"
+
+# Text color for DataFrames (añadir esto si tu versión de Streamlit lo soporta)
+secondaryTextColor = "#E0E0E0"  # Un gris claro para mejor contraste
+
+# Font family
 font = "sans serif"

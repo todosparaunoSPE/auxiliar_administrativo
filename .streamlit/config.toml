@@ -12,7 +12,7 @@ secondaryBackgroundColor = "#37207D"
 tertiaryBackgroundColor = "#4D27F5"  # Nuevo: fondo más claro para tablas
 
 # Color used for almost all text
-textColor = "#FFFFFF"
+textColor = "#4D27F5"
 
 # Text color for DataFrames (añadir esto si tu versión de Streamlit lo soporta)
 secondaryTextColor = "#E0E0E0"  # Un gris claro para mejor contraste

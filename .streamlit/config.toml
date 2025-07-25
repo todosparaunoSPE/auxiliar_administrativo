@@ -9,7 +9,7 @@ backgroundColor = "#0B0C0F"  # Un negro ligeramente más claro
 secondaryBackgroundColor = "#37207D"
 
 # Background color for DataFrames and tables
-tertiaryBackgroundColor = "#1E1E1E"  # Nuevo: fondo más claro para tablas
+tertiaryBackgroundColor = "#4D27F5"  # Nuevo: fondo más claro para tablas
 
 # Color used for almost all text
 textColor = "#FFFFFF"
